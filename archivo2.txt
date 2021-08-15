@@ -1,0 +1,4 @@
+cls
+public static function
+    print("hola)
+    print("cambios")
